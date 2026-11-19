@@ -9,5 +9,4 @@ Se busca validar que el estudiante:
 - Pueda clonar GIT
 
 ## ENTREGA
-Debe subir al GES una impresión de pantalla del resultado final.
-
+Debe subir al GES una impresión de pantalla del resultado final después de haber corrido el script y que se haya validad la nota final por el equipo docente.
