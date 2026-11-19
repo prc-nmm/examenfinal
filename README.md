@@ -3,15 +3,18 @@
 Script para evaluar la Sección 1 del Examen Final Práctico del curso NMM de PRC.
 
 ## RECORDATORIO
-Recuerda que una vez clonado el git debes primero entrar a la carpeta descargada:
+Recuerda que una vez clonado el git debes primero ir a la carpeta descargada:
 ```bsh
 cd examenfinal/
 ```
 Después debes de modificar los permisos de tu archivo con el script.
-
 Utiliza el siguiente comando:
 ```bsh
 chmod +x evaluacion_final.sh
+```
+Por último debes correr el script para evaluación:
+```bsh
+./evaluacion_final.sh
 ```
 ## EVALUACIÓN
 Se busca validar que el estudiante:
