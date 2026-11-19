@@ -1,4 +1,4 @@
-# Script para evaluación de Examen Final Práctico - Sección 1
+# Script para evaluar de Examen Final Práctico - Sección 1
 ## DESCRIPCIÓN
 Script para evaluar la Sección 1 del Examen Final Práctico del curso NMM de PRC.
 
