@@ -6,9 +6,9 @@ Script para evaluar la Sección 1 del Examen Final Práctico del curso NMM de PR
 Recuerda que una vez clonado el git debes de modificar los permisos de tu archivo con el script.
 
 Utiliza el siguiente comando:
-
-[chmod +x evaluacion_final.sh]
-
+'''
+chmod +x evaluacion_final.sh
+'''
 ## EVALUACIÓN
 Se busca validar que el estudiante:
 - Pueda instalar SNMP
