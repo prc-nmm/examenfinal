@@ -7,7 +7,7 @@ Recuerda que una vez clonado el git debes de modificar los permisos de tu archiv
 
 Utiliza el siguiente comando:
 
-{chmod +x evaluacion_final.sh}
+[chmod +x evaluacion_final.sh]
 
 ## EVALUACIÓN
 Se busca validar que el estudiante:
